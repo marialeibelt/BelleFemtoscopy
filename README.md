@@ -4,7 +4,7 @@
 This repository contains the code to investigate the proton-proton correlation in e+e- collisions at the Belle experiment and another code that provides histograms of the same and mixed event contributions and hence calculates the correlation function.
 
 ## About this project
-This project was developed by Maria Leibelt during her time at the Dense and Strange Hadronic Matter Group at the Technical University of Munich 2022-2023.
+This project was developed during my time at the Dense and Strange Hadronic Matter Group at the Technical University of Munich 2022-2023.
 
 ## LICENCE
 MIT License
